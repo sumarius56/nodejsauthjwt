@@ -11,7 +11,7 @@
       "dest": "/index.js"
     }
   ],
-  {
-  "rewrites": [{ "source": "/api/(.*)", "destination": "/api" }]
-}
+
+  "rewrites": [{ "source": "/api/(.*)", "destination": "/api" }],
+  "version": "2"
 }
